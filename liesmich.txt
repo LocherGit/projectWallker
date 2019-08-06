@@ -1,0 +1,4 @@
+PROJECT WALLKER HINWEIS:
+
+> Bitte zuerst alle Levels builden
+> Der eigentliche Startpunkt ist Level00_1, zufinden in Content/LevelMaps/
